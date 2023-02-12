@@ -1,8 +1,12 @@
 # Some-useful-Git-Linux-Commands
 
-grep: This command is used to search for a pattern in a file or input and display the matching lines.
+# grep: 
 
-find: This command is used to search for files or directories based on criteria such as name, size, or modification time.
+This command is used to search for a pattern in a file or input and display the matching lines.
+
+#find: 
+
+This command is used to search for files or directories based on criteria such as name, size, or modification time.
 
 sed: This command is used to perform text transformations on input data, such as replacing text or deleting lines.
 
