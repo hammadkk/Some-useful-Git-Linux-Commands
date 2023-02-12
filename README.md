@@ -29,3 +29,24 @@ This command is used to create a new directory.
  
  
  # Some-useful-Git-Commands
+
+
+# 1) git init: 
+
+This command is used to initialize a Git repository in the current directory.
+
+# 2) git clone: 
+
+This command is used to clone a remote Git repository onto your local machine.
+
+# 3) git add: 
+
+This command is used to stage changes in the working directory for a commit.
+
+# 4) git commit: 
+
+This command is used to create a new commit with the staged changes.
+
+# 5) git blame: 
+
+This command is used to view the history of a file, including the author and date of every change made to the file.
