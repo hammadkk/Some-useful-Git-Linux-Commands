@@ -50,3 +50,7 @@ This command is used to create a new commit with the staged changes.
 # 5) git blame: 
 
 This command is used to view the history of a file, including the author and date of every change made to the file.
+
+# 6) git grep:
+
+This command is used to search for specific patterns in the Git history of a repository.
