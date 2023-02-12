@@ -4,7 +4,7 @@
 
 This command is used to search for a pattern in a file or input and display the matching lines.
 
-#find: 
+# find: 
 
 This command is used to search for files or directories based on criteria such as name, size, or modification time.
 
