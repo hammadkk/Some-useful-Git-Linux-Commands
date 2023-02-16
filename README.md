@@ -32,7 +32,7 @@ This command is used to create a new directory.
 
 # 8) cd: 
 
-This command is used to change the current working directory.
+This command is used to change the current working directory. 
 
 # 9) pwd: 
 
